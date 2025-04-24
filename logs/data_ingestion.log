@@ -1,0 +1,10 @@
+2025-04-17 19:09:07,522 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'load_params' is not defined
+2025-04-17 19:11:02,544 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-04-17 19:11:02,547 - data_ingestion - DEBUG - Data preprocessing completed
+2025-04-17 19:11:02,587 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-04-21 20:58:38,932 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-04-21 20:58:38,935 - data_ingestion - DEBUG - Data preprocessing completed
+2025-04-21 20:58:38,969 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-04-21 21:01:20,008 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-04-21 21:01:20,013 - data_ingestion - DEBUG - Data preprocessing completed
+2025-04-21 21:01:20,034 - data_ingestion - DEBUG - Train and test data saved to ./data\raw

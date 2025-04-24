@@ -1,0 +1,9 @@
+2025-04-24 01:06:30,935 - data_eval - ERROR - Failed to complete the model evaluation process: file must have 'read' and 'readline' attributes
+2025-04-24 01:08:03,921 - data_eval - ERROR - Failed to complete the model evaluation process: file must have 'read' and 'readline' attributes
+2025-04-24 01:08:42,568 - data_eval - ERROR - Failed to complete the model evaluation process: file must have 'read' and 'readline' attributes
+2025-04-24 01:08:52,176 - data_eval - ERROR - Failed to complete the model evaluation process: file must have 'read' and 'readline' attributes
+2025-04-24 01:09:06,482 - data_eval - ERROR - Failed to complete the model evaluation process: file must have 'read' and 'readline' attributes
+2025-04-24 01:09:48,138 - data_eval - ERROR - Failed to complete the model evaluation process: file must have 'read' and 'readline' attributes
+2025-04-24 01:12:33,412 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-04-24 01:12:33,496 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-04-24 01:12:33,499 - data_eval - DEBUG - Metrics saved to reports/metrics.json
