@@ -7,3 +7,12 @@
 2025-04-24 01:12:33,412 - data_eval - DEBUG - Model loaded from ./models/model.pkl
 2025-04-24 01:12:33,496 - data_eval - DEBUG - Model evaluation metrics calculated
 2025-04-24 01:12:33,499 - data_eval - DEBUG - Metrics saved to reports/metrics.json
+2025-04-25 01:42:17,582 - data_eval - ERROR - File not found: ./models/model.pkl
+2025-04-25 01:42:17,586 - data_eval - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: './models/model.pkl'
+2025-04-25 01:43:47,379 - data_eval - ERROR - File not found: ./models/model.pkl
+2025-04-25 01:43:47,379 - data_eval - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: './models/model.pkl'
+2025-04-25 01:44:05,915 - data_eval - ERROR - File not found: ./models/model.pkl
+2025-04-25 01:44:05,916 - data_eval - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: './models/model.pkl'
+2025-04-25 01:45:32,060 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-04-25 01:45:32,111 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-04-25 01:45:32,111 - data_eval - DEBUG - Metrics saved to reports/metrics.json
