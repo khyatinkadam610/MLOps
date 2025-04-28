@@ -10,3 +10,5 @@
 2025-04-25 01:39:43,791 - feature_engineering - DEBUG - tfidf applied and data transformed
 2025-04-25 01:39:43,971 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
 2025-04-25 01:39:44,020 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-04-29 00:04:12,262 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-04-29 00:04:12,262 - feature_engineering - ERROR - Failed to complete the feature engineering process: 'feature_engineering'
