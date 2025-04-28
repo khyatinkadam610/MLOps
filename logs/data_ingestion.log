@@ -11,3 +11,13 @@
 2025-04-25 01:37:05,052 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
 2025-04-25 01:37:05,058 - data_ingestion - DEBUG - Data preprocessing completed
 2025-04-25 01:37:05,098 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-04-28 21:44:01,878 - data_ingestion - ERROR - Failed to complete the data ingestion process: load_params() got an unexpected keyword argument 'params_path'
+2025-04-28 21:57:27,958 - data_ingestion - ERROR - Failed to complete the data ingestion process: load_params() got an unexpected keyword argument 'params_path'
+2025-04-28 21:58:23,521 - data_ingestion - DEBUG - Params retrived from params.yaml
+2025-04-28 21:58:23,521 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'test_size'
+2025-04-28 21:58:54,654 - data_ingestion - DEBUG - Params retrived from params.yaml
+2025-04-28 21:58:54,655 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'test_size'
+2025-04-28 21:59:50,538 - data_ingestion - DEBUG - Params retrived from params.yaml
+2025-04-28 21:59:51,562 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-04-28 21:59:51,573 - data_ingestion - DEBUG - Data preprocessing completed
+2025-04-28 21:59:51,621 - data_ingestion - DEBUG - Train and test data saved to ./data\raw

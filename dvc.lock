@@ -82,3 +82,16 @@ stages:
       hash: md5
       md5: 728d7ff288155212af414be1a0fa73c2
       size: 145
+  dataingestion:
+    cmd: python src/data_ingestion.py
+    deps:
+    - path: src/data_ingestion.py
+      hash: md5
+      md5: b73d5a05918afc39d3aa6384af068e7c
+      size: 3565
+    outs:
+    - path: data/raw
+      hash: md5
+      md5: 1a287d34dc172d9f950c03dae35f7e73.dir
+      size: 484846
+      nfiles: 2
