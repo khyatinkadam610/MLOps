@@ -16,3 +16,21 @@
 2025-04-25 01:45:32,060 - data_eval - DEBUG - Model loaded from ./models/model.pkl
 2025-04-25 01:45:32,111 - data_eval - DEBUG - Model evaluation metrics calculated
 2025-04-25 01:45:32,111 - data_eval - DEBUG - Metrics saved to reports/metrics.json
+2025-05-01 20:15:04,632 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-05-01 20:15:04,667 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-05-01 20:15:05,304 - data_eval - ERROR - Failed to complete the model evaluation process: name 'y_pred' is not defined
+2025-05-01 20:24:57,444 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-05-01 20:24:57,474 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-05-01 20:24:58,110 - data_eval - ERROR - Failed to complete the model evaluation process: name 'y_pred' is not defined
+2025-05-01 20:25:24,970 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-05-01 20:25:25,005 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-05-01 20:25:25,704 - data_eval - DEBUG - Metrics saved to reports/metrics.json
+2025-05-01 20:27:49,367 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-05-01 20:27:49,398 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-05-01 20:27:50,297 - data_eval - DEBUG - Metrics saved to reports/metrics.json
+2025-05-01 20:28:51,505 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-05-01 20:28:51,555 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-05-01 20:28:52,433 - data_eval - DEBUG - Metrics saved to reports/metrics.json
+2025-05-01 20:29:43,580 - data_eval - DEBUG - Model loaded from ./models/model.pkl
+2025-05-01 20:29:43,626 - data_eval - DEBUG - Model evaluation metrics calculated
+2025-05-01 20:29:44,382 - data_eval - DEBUG - Metrics saved to reports/metrics.json

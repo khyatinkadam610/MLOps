@@ -12,3 +12,17 @@
 2025-04-25 01:39:44,020 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
 2025-04-29 00:04:12,262 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
 2025-04-29 00:04:12,262 - feature_engineering - ERROR - Failed to complete the feature engineering process: 'feature_engineering'
+2025-05-01 20:02:36,760 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-05-01 20:02:36,761 - feature_engineering - ERROR - Failed to complete the feature engineering process: 'feature_engineering'
+2025-05-01 20:14:32,707 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-05-01 20:14:32,742 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-05-01 20:14:32,766 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-05-01 20:14:32,831 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-05-01 20:14:32,935 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-05-01 20:14:32,959 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-05-01 20:28:45,078 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-05-01 20:28:45,087 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-05-01 20:28:45,092 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-05-01 20:28:45,159 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-05-01 20:28:45,264 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-05-01 20:28:45,310 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv

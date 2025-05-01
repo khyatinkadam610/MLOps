@@ -4,6 +4,7 @@ import os
 import numpy as np,pandas as pd
 import json
 import logging
+from dvclive import Live
 
 # Ensure the "logs" directory exists
 log_dir = 'logs'
@@ -102,6 +103,10 @@ def main():
         x_test = test_data.iloc[:,:-1].values
         y_test = test_data.iloc[:,-1].values
         metrics = evaluate_model(clf, x_test, y_test)
+        with Live(save_dvc_exp=True) as live:
+            live.log_metric('Accuracy',metrics['accuracy'])
+            live.log_metric('Precision',metrics['precision'])
+            live.log_metric('Recall',metrics['recall'])
         save_metrics(metrics, 'reports/metrics.json')
     except Exception as e:
         logger.error('Failed to complete the model evaluation process: %s', e)
